@@ -20,4 +20,31 @@ By completing this project, you will:
 - Implement a binary search tree for organized data retrieval.
 - Strengthen your problem-solving and logical thinking in PHP programming.
 
+
+How to Run the Project using XAMPP
+
+
+1. Install XAMPP
+  - Download from: [https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html)  
+ - Install and open the XAMPP Control Panel.
+2. Start Your Local Server 
+   - In the XAMPP Control Panel, click Start  next to Apache.  
+   - (Optional) Start  MySQL  if needed for other projects.  
+   - Green indicators should appear beside them.
+3. Place the Project Files
+   - Go to your XAMPP installation folder:  
+      C:\xampp\htdocs
+   - Create a new folder named: 
+     php-foundations-datastructures-[YourName]
+   - Copy the following files into that folder:
+     - recursion.php
+     - hashtable.php
+     - bst.php
+   4. Run the Project in Browser
+   Open your browser and visit:  
+   - [http://localhost/recursion.php](http://localhost/recursion.php)  
+   - [http://localhost/hashtable.php](http://localhost/hashtable.php)  
+   - [http://localhost/bst.php](http://localhost/bst.php)
+
+
      
