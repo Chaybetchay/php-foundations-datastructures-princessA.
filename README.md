@@ -3,6 +3,8 @@ A simple PHP project that simulates a “Digital Library Organizer”, showcasin
 
 
 Digital Library Organizer
+
+
 A mini PHP system that simulates a Digital Library Organizer  demonstrating recursion, hash tables, and binary search trees (BST) for managing and displaying book data.
 Project Overview
 This project showcases three core data structure concepts implemented in PHP
